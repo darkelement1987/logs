@@ -1,0 +1,1195 @@
+[09-04 09:41:18.73] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:41:18.73] [          Device4] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:41:18.74] [          Device4] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:20.60] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device2 at 1567582879
+[09-04 09:41:21.00] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:41:21.01] [          Device1] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:41:21.02] [          Device1] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:22.10] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:41:22.10] [          Device2] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:41:22.11] [          Device2] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:25.22] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:41:24
+[09-04 09:41:26.78] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: [Errno 24] Too many open files: '/tmp/tess_lqoefl4s.PNG'
+[09-04 09:41:26.79] [          Device4] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:41:26.80] [          Device4] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:41:26.80] [          Device4] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:26.80] [          Device4] [         WorkerBase:620 ] [   ERROR] Cannot login two times in row - restart pogo
+[09-04 09:41:27.05] [          Device2] [         screenPath:212 ] [   ERROR] Screenshot corrupted :(
+[09-04 09:41:27.05] [          Device2] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:41:27.05] [          Device2] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:27.05] [          Device2] [         WorkerBase:620 ] [   ERROR] Cannot login two times in row - restart pogo
+[09-04 09:41:28.41] [          Device1] [         screenPath:212 ] [   ERROR] Screenshot corrupted :(
+[09-04 09:41:28.42] [          Device1] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:41:28.42] [          Device1] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:28.42] [          Device1] [         WorkerBase:620 ] [   ERROR] Cannot login two times in row - restart pogo
+[09-04 09:41:28.60] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51c845b0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:41:34.82] [          Device4] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 09:41:35.10] [          Device2] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 09:41:36.15] [          Device4] [         WorkerMITM:151 ] [ WARNING] startPogo: Starting pogo...
+[09-04 09:41:36.16] [          Device4] [         WorkerBase:972 ] [    INFO] Waiting for pogo start: 60 seconds
+[09-04 09:41:36.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:41:34
+[09-04 09:41:36.48] [          Device1] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 09:41:36.48] [          Device2] [         WorkerMITM:151 ] [ WARNING] startPogo: Starting pogo...
+[09-04 09:41:36.49] [          Device2] [         WorkerBase:972 ] [    INFO] Waiting for pogo start: 60 seconds
+[09-04 09:41:38.04] [          Device1] [         WorkerMITM:151 ] [ WARNING] startPogo: Starting pogo...
+[09-04 09:41:38.05] [          Device1] [         WorkerBase:972 ] [    INFO] Waiting for pogo start: 60 seconds
+[09-04 09:41:38.29] [          Device3] [           MITMBase:97  ] [ WARNING] Timeout waiting for data
+[09-04 09:41:38.30] [          Device3] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:41:38.65] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51d3a790>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:41:39.27] [          Device5] [         WorkerBase:419 ] [    INFO] Worker Device5 finished iteration, continuing work
+[09-04 09:41:39.43] [MainProcess|Device5] [   RouteManagerBase:501 ] [    INFO] Round of route Device5Area is moving to 51.965033535778595, 6.713527649620391 for a priority event
+[09-04 09:41:40.96] [          Device6] [           MITMBase:97  ] [ WARNING] Timeout waiting for data
+[09-04 09:41:40.97] [          Device6] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:41:41.38] [          Device3] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files: 'temp/screenshot_Device3.jpg'".
+[09-04 09:41:41.44] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:41:40
+[09-04 09:41:43.34] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device3 at 1567582902
+[09-04 09:41:45.26] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:41:43
+[09-04 09:41:45.34] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:41:44
+[09-04 09:41:45.64] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device3 at 1567582904
+[09-04 09:41:45.95] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device6 at 1567582905
+[09-04 09:41:46.53] [          Device5] [           MITMBase:65  ] [    INFO] Waiting for data after 2019-09-04 09:41:37.674659
+[09-04 09:41:47.31] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:41:47.31] [          Device6] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:41:47.32] [          Device6] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:41:47.96] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device6 at 1567582907
+[09-04 09:41:48.82] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51d61370>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:41:49.68] [          Device6] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files: 'temp/screenshot_Device6.jpg'".
+[09-04 09:41:56.45] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:41:55
+[09-04 09:41:57.73] [          Device5] [         WorkerBase:419 ] [    INFO] Worker Device5 finished iteration, continuing work
+[09-04 09:41:57.86] [MainProcess|Device5] [   RouteManagerBase:585 ] [    INFO] Device5Area: Moving on with location Location(lat=51.96464792847024, lng=6.710099628443027) [32 coords left (Workerpool)]
+[09-04 09:41:59.00] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 14}
+[09-04 09:42:04.97] [          Device5] [           MITMBase:65  ] [    INFO] Waiting for data after 2019-09-04 09:41:55.687791
+[09-04 09:42:06.55] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:42:05
+[09-04 09:42:09.11] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3}
+[09-04 09:42:11.57] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:42:10
+[09-04 09:42:12.52] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device3 at 1567582931
+[09-04 09:42:14.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:42:13
+[09-04 09:42:16.61] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:42:15
+[09-04 09:42:18.23] [          Device5] [         WorkerBase:419 ] [    INFO] Worker Device5 finished iteration, continuing work
+[09-04 09:42:18.37] [MainProcess|Device5] [   RouteManagerBase:501 ] [    INFO] Round of route Device5Area is moving to 51.96435431715814, 6.713786339707743 for a priority event
+[09-04 09:42:19.36] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 21}
+[09-04 09:42:25.47] [          Device5] [           MITMBase:65  ] [    INFO] Waiting for data after 2019-09-04 09:42:17.999999
+[09-04 09:42:26.30] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 57 entries
+[09-04 09:42:26.44] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 35 entries
+[09-04 09:42:26.61] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:42:25
+[09-04 09:42:26.84] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 66 entries
+[09-04 09:42:26.95] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 38 entries
+[09-04 09:42:29.44] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3}
+[09-04 09:42:30.97] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 49 entries
+[09-04 09:42:31.07] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 36 entries
+[09-04 09:42:34.48] [prio_queue_update_Device2Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 50 entries
+[09-04 09:42:34.55] [prio_queue_update_Device2Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 31 entries
+[09-04 09:42:35.47] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 69 entries
+[09-04 09:42:35.60] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 48 entries
+[09-04 09:42:36.74] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:42:36
+[09-04 09:42:37.31] [          Device4] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device4 didn't connect yet. Probably not injected? (Count: 0/20)
+[09-04 09:42:37.62] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 0/20)
+[09-04 09:42:38.53] [          Device5] [         WorkerBase:419 ] [    INFO] Worker Device5 finished iteration, continuing work
+[09-04 09:42:38.65] [MainProcess|Device5] [   RouteManagerBase:585 ] [    INFO] Device5Area: Moving on with location Location(lat=51.96432841767932, lng=6.7106043625936085) [31 coords left (Workerpool)]
+[09-04 09:42:39.18] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 0/20)
+[09-04 09:42:39.60] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 15}
+[09-04 09:42:41.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:42:40
+[09-04 09:42:44.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:42:44
+[09-04 09:42:45.76] [          Device5] [           MITMBase:65  ] [    INFO] Waiting for data after 2019-09-04 09:42:37.468014
+[09-04 09:42:46.72] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:42:45
+[09-04 09:42:49.75] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 09:42:57.34] [          Device4] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device4 didn't connect yet. Probably not injected? (Count: 1/20)
+[09-04 09:42:57.65] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 1/20)
+[09-04 09:42:57.82] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:42:56
+[09-04 09:42:59.21] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 1/20)
+[09-04 09:42:59.53] [          Device5] [         WorkerBase:419 ] [    INFO] Worker Device5 finished iteration, continuing work
+[09-04 09:42:59.73] [MainProcess|Device5] [   RouteManagerBase:501 ] [    INFO] Round of route Device5Area is moving to 51.97364046482297, 6.711168330916213 for a priority event
+[09-04 09:42:59.84] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 1}
+[09-04 09:43:06.83] [          Device5] [           MITMBase:65  ] [    INFO] Waiting for data after 2019-09-04 09:42:58.999997
+[09-04 09:43:08.00] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:43:06
+[09-04 09:43:09.92] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3}
+[09-04 09:43:11.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:43:10
+[09-04 09:43:15.19] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:43:14
+[09-04 09:43:17.37] [          Device4] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device4 didn't connect yet. Probably not injected? (Count: 2/20)
+[09-04 09:43:17.70] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 2/20)
+[09-04 09:43:17.98] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:43:16
+[09-04 09:43:19.26] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 2/20)
+[09-04 09:43:20.06] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x52cdbd90>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:43:37.61] [          Device4] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device4 didn't connect yet. Probably not injected? (Count: 3/20)
+[09-04 09:43:37.61] [          Device4] [           MITMBase:148 ] [    INFO] Worker Device4 will retry check_windows while waiting for injection at count 3
+[09-04 09:43:37.62] [          Device4] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:43:37.76] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 3/20)
+[09-04 09:43:37.76] [          Device2] [           MITMBase:148 ] [    INFO] Worker Device2 will retry check_windows while waiting for injection at count 3
+[09-04 09:43:37.76] [          Device2] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:43:39.35] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 3/20)
+[09-04 09:43:39.35] [          Device1] [           MITMBase:148 ] [    INFO] Worker Device1 will retry check_windows while waiting for injection at count 3
+[09-04 09:43:39.35] [          Device1] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:43:42.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:43:40
+[09-04 09:43:44.31] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:43:44.31] [          Device4] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:43:44.32] [          Device4] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:43:44.34] [          Device4] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:43:44.36] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: [Errno 24] Too many open files: '/tmp/tess_utyrgzyp.PNG'
+[09-04 09:43:44.37] [          Device2] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:43:44.39] [          Device2] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:43:44.39] [          Device2] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:43:44.94] [          Device5] [           MITMBase:97  ] [ WARNING] Timeout waiting for data
+[09-04 09:43:44.94] [          Device5] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:43:45.00] [          Device1] [         screenPath:212 ] [   ERROR] Screenshot corrupted :(
+[09-04 09:43:45.00] [          Device1] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:43:45.01] [          Device1] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:43:45.35] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:43:44
+[09-04 09:43:47.78] [          Device5] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files: 'temp/screenshot_Device5.jpg'".
+[09-04 09:43:47.79] [          Device4] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files: 'temp/screenshot_Device4.jpg'".
+[09-04 09:43:48.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:43:47
+[09-04 09:43:50.32] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 20}
+[09-04 09:43:51.32] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:43:51.32] [          Device2] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:43:51.33] [          Device2] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:43:51.33] [          Device2] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:43:51.32] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: [Errno 24] Too many open files: '/tmp/tess_tuboicgz'
+[09-04 09:43:51.34] [          Device2] [         WorkerBase:620 ] [   ERROR] Cannot login two times in row - restart pogo
+[09-04 09:43:51.34] [          Device1] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:43:51.35] [          Device1] [         WorkerBase:582 ] [ WARNING] Getting same screen again - maybe Pogo freeze?
+[09-04 09:43:51.35] [          Device1] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:43:51.36] [          Device1] [         WorkerBase:620 ] [   ERROR] Cannot login two times in row - restart pogo
+[09-04 09:43:51.89] [       MainThread] [       MITMReceiver:143 ] [    INFO] Worker Device1 is injected now
+[09-04 09:43:52.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:43:50
+[09-04 09:43:52.95] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device1 at 1567583032
+[09-04 09:43:59.01] [          Device1] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 09:43:59.22] [          Device2] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 09:44:00.37] [          Device1] [         WorkerMITM:151 ] [ WARNING] startPogo: Starting pogo...
+[09-04 09:44:00.38] [          Device1] [         WorkerBase:972 ] [    INFO] Waiting for pogo start: 60 seconds
+[09-04 09:44:00.39] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51c52dd0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:44:00.79] [          Device2] [         WorkerMITM:151 ] [ WARNING] startPogo: Starting pogo...
+[09-04 09:44:00.81] [          Device2] [         WorkerBase:972 ] [    INFO] Waiting for pogo start: 60 seconds
+[09-04 09:44:12.14] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:44:10
+[09-04 09:44:15.64] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:44:14
+[09-04 09:44:16.65] [       MainThread] [       MITMReceiver:143 ] [    INFO] Worker Device4 is injected now
+[09-04 09:44:16.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:44:15
+[09-04 09:44:18.40] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:44:17
+[09-04 09:44:21.16] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51d75d70>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:44:31.21] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51d336b0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:44:42.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:44:41
+[09-04 09:44:45.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:44:44
+[09-04 09:44:47.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:44:45
+[09-04 09:44:48.46] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:44:47
+[09-04 09:44:51.42] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51c8b9f0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:45:02.02] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 0/20)
+[09-04 09:45:02.51] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 0/20)
+[09-04 09:45:12.27] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:45:11
+[09-04 09:45:15.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:45:14
+[09-04 09:45:17.26] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:45:15
+[09-04 09:45:18.61] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:45:17
+[09-04 09:45:21.64] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51caa7d0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:45:22.08] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 1/20)
+[09-04 09:45:22.64] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 1/20)
+[09-04 09:45:26.54] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 53 entries
+[09-04 09:45:26.64] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 37 entries
+[09-04 09:45:27.07] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 67 entries
+[09-04 09:45:27.20] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 37 entries
+[09-04 09:45:31.23] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 48 entries
+[09-04 09:45:31.29] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 33 entries
+[09-04 09:45:34.69] [prio_queue_update_Device2Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 63 entries
+[09-04 09:45:34.80] [prio_queue_update_Device2Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 34 entries
+[09-04 09:45:35.74] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 68 entries
+[09-04 09:45:35.90] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 41 entries
+[09-04 09:45:42.15] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 2/20)
+[09-04 09:45:42.43] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:45:41
+[09-04 09:45:42.70] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 2/20)
+[09-04 09:45:46.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:45:45
+[09-04 09:45:47.40] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:45:45
+[09-04 09:45:48.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:45:47
+[09-04 09:45:51.87] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51d77b70>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:46:01.95] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51de72f0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:46:02.25] [          Device1] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device1 didn't connect yet. Probably not injected? (Count: 3/20)
+[09-04 09:46:02.26] [          Device1] [           MITMBase:148 ] [    INFO] Worker Device1 will retry check_windows while waiting for injection at count 3
+[09-04 09:46:02.26] [          Device1] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:46:02.78] [          Device2] [           MITMBase:145 ] [    INFO] PogoDroid on worker Device2 didn't connect yet. Probably not injected? (Count: 3/20)
+[09-04 09:46:02.79] [          Device2] [           MITMBase:148 ] [    INFO] Worker Device2 will retry check_windows while waiting for injection at count 3
+[09-04 09:46:02.79] [          Device2] [         WorkerBase:562 ] [    INFO] Checking pogo screen...
+[09-04 09:46:05.89] [          Device1] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files: 'temp/screenshot_Device1.jpg'".
+[09-04 09:46:09.56] [         Thread-9] [        pogoWindows:752 ] [   ERROR] get_screen_text: tesseract is not installed or it's not in your path
+[09-04 09:46:09.56] [          Device2] [         screenPath:221 ] [   ERROR] Error while text detection
+[09-04 09:46:09.57] [          Device2] [         WorkerBase:573 ] [ WARNING] Pogo freeze - restart Phone
+[09-04 09:46:12.60] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:46:11
+[09-04 09:46:16.51] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:46:15
+[09-04 09:46:17.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:46:16
+[09-04 09:46:18.86] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:46:18
+[09-04 09:46:22.24] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51de71b0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:46:23.13] [          Device2] [         WorkerBase:238 ] [ WARNING] Worker Device2 stop called
+[09-04 09:46:23.14] [          Device2] [         WorkerBase:606 ] [ WARNING] Something wrong with screendetection
+[09-04 09:46:23.14] [          Device2] [         WorkerBase:627 ] [    INFO] Checking pogo screen is finished
+[09-04 09:46:23.14] [          Device2] [           MITMBase:151 ] [   ERROR] Worker Device2 killed while waiting for injection
+[09-04 09:46:23.15] [          Device2] [         WorkerBase:416 ] [ WARNING] Worker Device2 failed running post_move_location_routine, stopping worker
+[09-04 09:46:23.15] [          Device2] [         WorkerBase:304 ] [    INFO] Internal cleanup of Device2 started
+[09-04 09:46:23.17] [          Device2] [         WorkerBase:307 ] [    INFO] Internal cleanup of Device2 signalling end to websocketserver
+[09-04 09:46:23.18] [MainProcess|Device2] [   RouteManagerBase:166 ] [    INFO] Worker Device2 unregistering from routemanager Device2Area
+[09-04 09:46:23.18] [MainProcess|Device2] [   RouteManagerBase:176 ] [    INFO] Routemanager Device2Area does not have any subscribing workers anymore, calling stop
+[09-04 09:46:23.19] [MainProcess|Device2] [    RouteManagerMon:66  ] [    INFO] Shutdown Route Device2Area
+[09-04 09:46:39.91] [       MainThread] [       MITMReceiver:143 ] [    INFO] Worker Device1 is injected now
+[09-04 09:46:40.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:46:38
+[09-04 09:46:40.95] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device1 at 1567583200
+[09-04 09:46:41.24] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 09:46:41.25] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device2 stopped, cancelling pending tasks
+[09-04 09:46:41.25] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device2
+[09-04 09:46:41.25] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device2 stop called
+[09-04 09:46:41.25] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device2 unregistered
+[09-04 09:46:41.25] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device2
+[09-04 09:46:41.51] [worker_join_thread] [    WebsocketServer:92  ] [    INFO] Trying to join worker thread
+[09-04 09:46:42.41] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x519b4a10>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:46:43.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:46:42
+[09-04 09:46:46.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:46:45
+[09-04 09:46:47.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:46:46
+[09-04 09:46:49.03] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:46:48
+[09-04 09:46:52.61] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 21}
+[09-04 09:47:10.27] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:47:08
+[09-04 09:47:12.80] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 5}
+[09-04 09:47:13.84] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:47:12
+[09-04 09:47:15.38] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 09:47:15.38] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device2 registering
+[09-04 09:47:15.39] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device2
+[09-04 09:47:15.39] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device2
+[09-04 09:47:15.39] [          scanner] [    WebsocketServer:259 ] [    INFO] Device2 not using area Device2Area - Walkervalue out of range
+[09-04 09:47:15.40] [          scanner] [    WebsocketServer:259 ] [    INFO] Device2 not using area stopsarea - Walkervalue out of range
+[09-04 09:47:15.40] [          scanner] [    WebsocketServer:290 ] [    INFO] Device2 using walker area Device2Area [3/3]
+[09-04 09:47:15.41] [          scanner] [         WorkerBase:79  ] [    INFO] Device2: last Mode not pokestop - reset saved location
+[09-04 09:47:15.41] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 09:47:15.42] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.google
+[09-04 09:47:15.42] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 09:47:15.52] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device2 starting
+[09-04 09:47:15.52] [          Device2] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 09:47:16.86] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:47:15
+[09-04 09:47:17.94] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:47:16
+[09-04 09:47:19.12] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:47:18
+[09-04 09:47:23.07] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51a92a50>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:47:40.33] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:47:38
+[09-04 09:47:42.21] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device1 at 1567583260
+[09-04 09:47:42.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:47:42
+[09-04 09:47:43.21] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51a91110>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:47:47.10] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:47:45
+[09-04 09:47:48.05] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:47:46
+[09-04 09:47:49.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:47:48
+[09-04 09:47:53.39] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51ae4370>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:48:10.52] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:48:09
+[09-04 09:48:13.56] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51a99b70>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:48:14.05] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:48:12
+[09-04 09:48:17.49] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:48:16
+[09-04 09:48:18.11] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:48:16
+[09-04 09:48:19.40] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:48:18
+[09-04 09:48:23.78] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51aaf590>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 09:48:26.81] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 45 entries
+[09-04 09:48:26.92] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 09:48:27.35] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 59 entries
+[09-04 09:48:27.44] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 36 entries
+[09-04 09:48:31.51] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 45 entries
+[09-04 09:48:31.58] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 09:48:34.81] [          Device2] [       communicator:22  ] [    INFO] Communicator of Device2 acquiring lock to cleanup worker in websocket
+[09-04 09:48:34.82] [          Device2] [       communicator:25  ] [    INFO] Communicator of Device2 calling cleanup
+[09-04 09:48:34.83] [          Device2] [         WorkerBase:311 ] [    INFO] Stopped Route
+[09-04 09:48:34.83] [          Device2] [         WorkerBase:314 ] [    INFO] Stopping worker's asyncio loop
+[09-04 09:48:34.84] [          Device2] [         WorkerBase:318 ] [    INFO] Internal cleanup of Device2 finished
+[09-04 09:48:34.85] [   worker_Device2] [         WorkerBase:229 ] [    INFO] Worker Device2 stopped gracefully
+[09-04 09:48:34.85] [worker_join_thread] [    WebsocketServer:95  ] [    INFO] Done joining worker thread
+[09-04 09:48:36.09] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 79 entries
+[09-04 09:48:36.25] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 45 entries
+[09-04 09:48:40.70] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:48:39
+[09-04 09:48:43.98] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 6}
+[09-04 09:48:44.14] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:48:42
+[09-04 09:48:47.68] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:48:46
+[09-04 09:48:48.32] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:48:46
+[09-04 09:48:49.59] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:48:48
+[09-04 09:48:54.20] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 20}
+[09-04 09:49:10.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:49:09
+[09-04 09:49:14.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:49:12
+[09-04 09:49:14.42] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 6}
+[09-04 09:49:17.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:49:16
+[09-04 09:49:18.43] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:49:16
+[09-04 09:49:19.63] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:49:18
+[09-04 09:49:24.60] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 20}
+[09-04 09:49:40.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:49:39
+[09-04 09:49:44.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:49:43
+[09-04 09:49:44.79] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 16}
+[09-04 09:49:48.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:49:46
+[09-04 09:49:48.59] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:49:47
+[09-04 09:49:49.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:49:48
+[09-04 09:49:55.01] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 20}
+[09-04 09:50:11.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:50:09
+[09-04 09:50:14.48] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:50:13
+[09-04 09:50:15.24] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 16}
+[09-04 09:50:18.40] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:50:16
+[09-04 09:50:18.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:50:17
+[09-04 09:50:19.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:50:19
+[09-04 09:50:25.43] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 09:50:41.20] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:50:39
+[09-04 09:50:44.62] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:50:43
+[09-04 09:50:45.65] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 16}
+[09-04 09:50:48.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:50:46
+[09-04 09:50:48.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:50:47
+[09-04 09:50:50.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:50:49
+[09-04 09:50:55.85] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 20}
+[09-04 09:51:11.26] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:51:10
+[09-04 09:51:14.70] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:51:13
+[09-04 09:51:16.08] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 16}
+[09-04 09:51:18.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:51:17
+[09-04 09:51:19.08] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:51:17
+[09-04 09:51:20.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:51:19
+[09-04 09:51:26.24] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 09:51:27.07] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 40 entries
+[09-04 09:51:27.15] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 30 entries
+[09-04 09:51:27.56] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 59 entries
+[09-04 09:51:27.65] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 35 entries
+[09-04 09:51:31.73] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 40 entries
+[09-04 09:51:31.77] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 29 entries
+[09-04 09:51:36.36] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 76 entries
+[09-04 09:51:36.50] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 51 entries
+[09-04 09:51:41.39] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:51:40
+[09-04 09:51:44.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:51:43
+[09-04 09:51:46.52] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 16}
+[09-04 09:51:48.00] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:51:47
+[09-04 09:51:49.28] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:51:47
+[09-04 09:51:50.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:51:49
+[09-04 09:51:56.72] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 09:52:11.62] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:52:10
+[09-04 09:52:14.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:52:13
+[09-04 09:52:16.94] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 17}
+[09-04 09:52:18.31] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:52:17
+[09-04 09:52:19.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:52:18
+[09-04 09:52:20.39] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:52:19
+[09-04 09:52:27.12] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 9}
+[09-04 09:52:41.67] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:52:40
+[09-04 09:52:45.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:52:43
+[09-04 09:52:47.36] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 17}
+[09-04 09:52:48.41] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:52:47
+[09-04 09:52:49.45] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:52:48
+[09-04 09:52:50.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:52:49
+[09-04 09:52:57.53] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 9}
+[09-04 09:53:11.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:53:10
+[09-04 09:53:15.17] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:53:14
+[09-04 09:53:17.75] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 15}
+[09-04 09:53:18.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:53:17
+[09-04 09:53:19.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:53:18
+[09-04 09:53:20.66] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:53:19
+[09-04 09:53:27.92] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 9}
+[09-04 09:53:41.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:53:40
+[09-04 09:53:45.22] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:53:44
+[09-04 09:53:48.19] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 15}
+[09-04 09:53:48.84] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:53:47
+[09-04 09:53:49.84] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:53:48
+[09-04 09:53:50.78] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:53:50
+[09-04 09:53:58.34] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 10}
+[09-04 09:54:12.02] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:54:10
+[09-04 09:54:16.37] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:54:14
+[09-04 09:54:18.58] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 14}
+[09-04 09:54:19.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:54:17
+[09-04 09:54:19.91] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:54:18
+[09-04 09:54:21.89] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:54:20
+[09-04 09:54:27.33] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 41 entries
+[09-04 09:54:27.42] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 31 entries
+[09-04 09:54:27.74] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 59 entries
+[09-04 09:54:27.83] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 31 entries
+[09-04 09:54:28.74] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 10}
+[09-04 09:54:31.92] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 38 entries
+[09-04 09:54:31.96] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 28 entries
+[09-04 09:54:36.72] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 63 entries
+[09-04 09:54:36.84] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 49 entries
+[09-04 09:54:42.14] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:54:41
+[09-04 09:54:46.46] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:54:44
+[09-04 09:54:48.94] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 14}
+[09-04 09:54:49.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:54:48
+[09-04 09:54:50.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:54:48
+[09-04 09:54:52.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:54:50
+[09-04 09:54:59.12] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 10}
+[09-04 09:55:12.20] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:55:11
+[09-04 09:55:16.63] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:55:15
+[09-04 09:55:19.29] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 14}
+[09-04 09:55:19.49] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:55:18
+[09-04 09:55:20.30] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:55:18
+[09-04 09:55:21.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:55:20
+[09-04 09:55:29.46] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 10}
+[09-04 09:55:42.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:55:41
+[09-04 09:55:46.68] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:55:45
+[09-04 09:55:49.72] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 14}
+[09-04 09:55:49.79] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:55:48
+[09-04 09:55:51.28] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:55:50
+[09-04 09:55:51.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:55:49
+[09-04 09:55:59.88] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 10}
+[09-04 09:56:12.52] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:56:11
+[09-04 09:56:16.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:56:15
+[09-04 09:56:20.04] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:56:18
+[09-04 09:56:20.10] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 13}
+[09-04 09:56:21.19] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:56:20
+[09-04 09:56:21.50] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:56:19
+[09-04 09:56:30.21] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 11}
+[09-04 09:56:42.62] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:56:41
+[09-04 09:56:46.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:56:45
+[09-04 09:56:50.26] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:56:49
+[09-04 09:56:50.63] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 13}
+[09-04 09:56:51.50] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:56:50
+[09-04 09:56:51.66] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:56:49
+[09-04 09:57:00.85] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 20}
+[09-04 09:57:12.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:57:11
+[09-04 09:57:17.08] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:57:15
+[09-04 09:57:20.53] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:57:19
+[09-04 09:57:21.05] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 21}
+[09-04 09:57:21.86] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:57:19
+[09-04 09:57:22.67] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:57:21
+[09-04 09:57:27.60] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 45 entries
+[09-04 09:57:27.70] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 09:57:27.93] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 77 entries
+[09-04 09:57:28.08] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 44 entries
+[09-04 09:57:31.21] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 11}
+[09-04 09:57:32.12] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 39 entries
+[09-04 09:57:32.19] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 31 entries
+[09-04 09:57:37.06] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 65 entries
+[09-04 09:57:37.19] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 48 entries
+[09-04 09:57:43.90] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:57:42
+[09-04 09:57:47.17] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:57:45
+[09-04 09:57:50.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:57:49
+[09-04 09:57:50.98] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:57:49
+[09-04 09:57:51.48] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 7, "weather": 2, "pokemon": 21}
+[09-04 09:57:52.90] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:57:51
+[09-04 09:58:01.60] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 3}
+[09-04 09:58:13.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:58:12
+[09-04 09:58:17.28] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:58:15
+[09-04 09:58:20.91] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:58:19
+[09-04 09:58:21.02] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:58:19
+[09-04 09:58:21.87] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 7, "weather": 2, "pokemon": 21}
+[09-04 09:58:22.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:58:21
+[09-04 09:58:27.59] [   dynamic_rarity] [             rarity:47  ] [    INFO] Updating dynamic rarity...
+[09-04 09:58:27.91] [   dynamic_rarity] [             rarity:63  ] [    INFO] Updated dynamic rarity. It took 0.32s for 63125 entries.
+[09-04 09:58:32.05] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 11}
+[09-04 09:58:44.02] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:58:42
+[09-04 09:58:47.41] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:58:45
+[09-04 09:58:51.15] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:58:49
+[09-04 09:58:51.35] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:58:49
+[09-04 09:58:52.33] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 7, "weather": 2, "pokemon": 20}
+[09-04 09:58:53.03] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:58:51
+[09-04 09:59:02.45] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 09:59:13.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:59:12
+[09-04 09:59:17.51] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:59:16
+[09-04 09:59:21.33] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:59:20
+[09-04 09:59:21.44] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:59:19
+[09-04 09:59:22.73] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 7, "weather": 2, "pokemon": 20}
+[09-04 09:59:23.19] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:59:21
+[09-04 09:59:32.86] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 09:59:44.35] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 09:59:42
+[09-04 09:59:47.61] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 09:59:46
+[09-04 09:59:50.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 09:59:49
+[09-04 09:59:52.54] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 09:59:50
+[09-04 09:59:53.07] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 7, "weather": 2, "pokemon": 20}
+[09-04 09:59:53.34] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 09:59:51
+[09-04 10:00:03.20] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 3}
+[09-04 10:00:14.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:00:13
+[09-04 10:00:17.74] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:00:16
+[09-04 10:00:21.72] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:00:20
+[09-04 10:00:21.87] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:00:20
+[09-04 10:00:23.48] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:00:22
+[09-04 10:00:25.41] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 7, "weather": 2, "pokemon": 20}
+[09-04 10:00:27.88] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 48 entries
+[09-04 10:00:27.93] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 36 entries
+[09-04 10:00:28.23] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 72 entries
+[09-04 10:00:28.36] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 45 entries
+[09-04 10:00:32.40] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 47 entries
+[09-04 10:00:32.46] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 10:00:35.53] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:00:37.38] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 71 entries
+[09-04 10:00:37.53] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 49 entries
+[09-04 10:00:44.52] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:00:42
+[09-04 10:00:45.73] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1}
+[09-04 10:00:47.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:00:46
+[09-04 10:00:51.16] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:00:50
+[09-04 10:00:52.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:00:50
+[09-04 10:00:53.59] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:00:52
+[09-04 10:00:55.96] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 22}
+[09-04 10:01:14.66] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:01:12
+[09-04 10:01:16.12] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 3}
+[09-04 10:01:17.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:01:16
+[09-04 10:01:21.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:01:20
+[09-04 10:01:23.00] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:01:20
+[09-04 10:01:23.66] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:01:22
+[09-04 10:01:26.32] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 20}
+[09-04 10:01:44.74] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:01:43
+[09-04 10:01:46.49] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 3}
+[09-04 10:01:48.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:01:46
+[09-04 10:01:51.60] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:01:50
+[09-04 10:01:53.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:01:51
+[09-04 10:01:53.83] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:01:52
+[09-04 10:01:56.73] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 19}
+[09-04 10:02:14.90] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:02:13
+[09-04 10:02:16.92] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:02:18.20] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:02:16
+[09-04 10:02:22.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:02:20
+[09-04 10:02:23.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:02:21
+[09-04 10:02:23.89] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:02:22
+[09-04 10:02:27.10] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 19}
+[09-04 10:02:44.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:02:43
+[09-04 10:02:47.28] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:02:48.28] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:02:46
+[09-04 10:02:52.15] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:02:50
+[09-04 10:02:52.45] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:02:51
+[09-04 10:02:54.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:02:52
+[09-04 10:02:57.49] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 10:03:15.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:03:13
+[09-04 10:03:17.66] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:03:18.32] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:03:17
+[09-04 10:03:22.51] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:03:21
+[09-04 10:03:22.65] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:03:21
+[09-04 10:03:24.25] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:03:23
+[09-04 10:03:27.89] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 10:03:28.02] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 47 entries
+[09-04 10:03:28.08] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 10:03:28.51] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 69 entries
+[09-04 10:03:28.69] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 45 entries
+[09-04 10:03:32.65] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 48 entries
+[09-04 10:03:32.71] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 33 entries
+[09-04 10:03:37.66] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 67 entries
+[09-04 10:03:37.77] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 43 entries
+[09-04 10:03:45.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:03:43
+[09-04 10:03:48.05] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:03:49.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:03:48
+[09-04 10:03:52.48] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:03:51
+[09-04 10:03:53.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:03:51
+[09-04 10:03:54.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:03:53
+[09-04 10:03:58.20] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51b69f30>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:04:14.33] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:04:13
+[09-04 10:04:18.39] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:04:18.49] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:04:17
+[09-04 10:04:22.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:04:21
+[09-04 10:04:22.92] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:04:21
+[09-04 10:04:24.41] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:04:23
+[09-04 10:04:28.63] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 17}
+[09-04 10:04:44.48] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:04:43
+[09-04 10:04:48.62] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:04:47
+[09-04 10:04:49.04] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 4}
+[09-04 10:04:52.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:04:51
+[09-04 10:04:53.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:04:51
+[09-04 10:04:54.50] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:04:53
+[09-04 10:04:59.23] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 17}
+[09-04 10:05:15.59] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:05:13
+[09-04 10:05:19.41] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:05:19.70] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:05:17
+[09-04 10:05:23.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:05:21
+[09-04 10:05:23.40] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:05:21
+[09-04 10:05:25.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:05:24
+[09-04 10:05:29.58] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 10:05:45.69] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:05:44
+[09-04 10:05:48.89] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:05:47
+[09-04 10:05:49.80] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 10}
+[09-04 10:05:53.31] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:05:52
+[09-04 10:05:53.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:05:51
+[09-04 10:05:55.87] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:05:54
+[09-04 10:05:59.98] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 10:06:14.83] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:06:13
+[09-04 10:06:19.94] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:06:18
+[09-04 10:06:20.13] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:06:22.72] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:06:22
+[09-04 10:06:24.55] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:06:22
+[09-04 10:06:25.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:06:24
+[09-04 10:06:28.26] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 46 entries
+[09-04 10:06:28.38] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 34 entries
+[09-04 10:06:28.75] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 66 entries
+[09-04 10:06:28.87] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 43 entries
+[09-04 10:06:30.37] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 10:06:32.85] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 44 entries
+[09-04 10:06:32.94] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 31 entries
+[09-04 10:06:37.98] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 68 entries
+[09-04 10:06:38.13] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 47 entries
+[09-04 10:06:46.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:06:44
+[09-04 10:06:49.99] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:06:48
+[09-04 10:06:50.52] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 10}
+[09-04 10:06:52.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:06:51
+[09-04 10:06:54.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:06:52
+[09-04 10:06:56.18] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:06:54
+[09-04 10:07:00.70] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 18}
+[09-04 10:07:15.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:07:14
+[09-04 10:07:20.05] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:07:18
+[09-04 10:07:20.98] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device3 at 1567584440
+[09-04 10:07:20.97] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 12}
+[09-04 10:07:24.11] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:07:22
+[09-04 10:07:24.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:07:22
+[09-04 10:07:26.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:07:24
+[09-04 10:07:31.21] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 19}
+[09-04 10:07:46.16] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:07:44
+[09-04 10:07:50.26] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:07:48
+[09-04 10:07:51.38] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x530aed30>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:07:53.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:07:52
+[09-04 10:07:55.03] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:07:52
+[09-04 10:07:56.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:07:54
+[09-04 10:08:01.55] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 11}
+[09-04 10:08:16.19] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:08:14
+[09-04 10:08:20.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:08:19
+[09-04 10:08:21.81] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 12}
+[09-04 10:08:23.51] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:08:22
+[09-04 10:08:25.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:08:23
+[09-04 10:08:26.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:08:25
+[09-04 10:08:31.98] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 12}
+[09-04 10:08:46.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:08:44
+[09-04 10:08:50.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:08:49
+[09-04 10:08:52.19] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 12}
+[09-04 10:08:53.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:08:52
+[09-04 10:08:55.33] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:08:53
+[09-04 10:08:56.68] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:08:55
+[09-04 10:09:02.37] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 12}
+[09-04 10:09:16.54] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:09:15
+[09-04 10:09:20.57] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:09:19
+[09-04 10:09:22.57] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 12}
+[09-04 10:09:23.97] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:09:22
+[09-04 10:09:25.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:09:23
+[09-04 10:09:26.70] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:09:25
+[09-04 10:09:28.56] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 49 entries
+[09-04 10:09:28.64] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 34 entries
+[09-04 10:09:28.99] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 61 entries
+[09-04 10:09:29.09] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 37 entries
+[09-04 10:09:32.77] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 11}
+[09-04 10:09:33.10] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 45 entries
+[09-04 10:09:33.15] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 34 entries
+[09-04 10:09:38.33] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 71 entries
+[09-04 10:09:38.48] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 54 entries
+[09-04 10:09:46.64] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:09:45
+[09-04 10:09:50.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:09:49
+[09-04 10:09:53.02] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 11}
+[09-04 10:09:54.22] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:09:52
+[09-04 10:09:55.67] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:09:53
+[09-04 10:09:56.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:09:55
+[09-04 10:10:03.20] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 11}
+[09-04 10:10:16.75] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:10:15
+[09-04 10:10:20.83] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:10:19
+[09-04 10:10:23.44] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 11}
+[09-04 10:10:24.55] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:10:23
+[09-04 10:10:25.75] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:10:23
+[09-04 10:10:26.89] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:10:25
+[09-04 10:10:33.61] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:10:46.90] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:10:45
+[09-04 10:10:50.91] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:10:49
+[09-04 10:10:53.86] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 9}
+[09-04 10:10:54.77] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:10:53
+[09-04 10:10:55.94] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:10:53
+[09-04 10:10:57.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:10:56
+[09-04 10:11:04.02] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:11:17.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:11:15
+[09-04 10:11:21.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:11:20
+[09-04 10:11:24.26] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 9}
+[09-04 10:11:24.86] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:11:24
+[09-04 10:11:26.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:11:24
+[09-04 10:11:27.68] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:11:26
+[09-04 10:11:34.42] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 6}
+[09-04 10:11:47.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:11:45
+[09-04 10:11:51.11] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:11:49
+[09-04 10:11:54.62] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 9}
+[09-04 10:11:55.05] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:11:53
+[09-04 10:11:56.21] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:11:54
+[09-04 10:11:57.20] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:11:56
+[09-04 10:12:04.77] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:12:17.20] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:12:15
+[09-04 10:12:21.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:12:20
+[09-04 10:12:25.02] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 10}
+[09-04 10:12:25.10] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:12:24
+[09-04 10:12:25.92] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device6 at 1567584745
+[09-04 10:12:26.31] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:12:24
+[09-04 10:12:27.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:12:26
+[09-04 10:12:28.81] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 43 entries
+[09-04 10:12:28.90] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 10:12:29.22] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 56 entries
+[09-04 10:12:29.31] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 32 entries
+[09-04 10:12:33.35] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 52 entries
+[09-04 10:12:33.43] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 34 entries
+[09-04 10:12:35.22] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:12:38.55] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 72 entries
+[09-04 10:12:38.68] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 49 entries
+[09-04 10:12:47.32] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:12:45
+[09-04 10:12:51.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:12:50
+[09-04 10:12:55.38] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 10}
+[09-04 10:12:55.55] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:12:54
+[09-04 10:12:56.34] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:12:54
+[09-04 10:12:58.39] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:12:56
+[09-04 10:13:05.52] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:13:16.43] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:13:15
+[09-04 10:13:21.50] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:13:20
+[09-04 10:13:25.75] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 9}
+[09-04 10:13:25.79] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:13:24
+[09-04 10:13:26.67] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:13:24
+[09-04 10:13:27.52] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:13:26
+[09-04 10:13:35.91] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 10}
+[09-04 10:13:47.56] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:13:45
+[09-04 10:13:51.58] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:13:50
+[09-04 10:13:55.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:13:54
+[09-04 10:13:56.12] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 8}
+[09-04 10:13:56.76] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:13:55
+[09-04 10:13:57.59] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:13:56
+[09-04 10:14:06.32] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 10}
+[09-04 10:14:17.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:14:16
+[09-04 10:14:22.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:14:20
+[09-04 10:14:26.12] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:14:24
+[09-04 10:14:26.48] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 8}
+[09-04 10:14:26.80] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:14:25
+[09-04 10:14:28.77] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:14:27
+[09-04 10:14:36.64] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 10}
+[09-04 10:14:47.84] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:14:46
+[09-04 10:14:51.76] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:14:50
+[09-04 10:14:56.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:14:54
+[09-04 10:14:56.80] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 7}
+[09-04 10:14:56.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:14:55
+[09-04 10:14:58.86] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:14:57
+[09-04 10:15:06.97] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 11}
+[09-04 10:15:17.99] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:15:16
+[09-04 10:15:22.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:15:21
+[09-04 10:15:25.62] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:15:24
+[09-04 10:15:27.12] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:15:25
+[09-04 10:15:27.25] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 15}
+[09-04 10:15:28.87] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:15:27
+[09-04 10:15:29.03] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 49 entries
+[09-04 10:15:29.11] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 33 entries
+[09-04 10:15:29.39] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 50 entries
+[09-04 10:15:29.52] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 28 entries
+[09-04 10:15:33.63] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 48 entries
+[09-04 10:15:33.70] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 31 entries
+[09-04 10:15:37.41] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 5}
+[09-04 10:15:38.84] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 78 entries
+[09-04 10:15:38.99] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 55 entries
+[09-04 10:15:47.97] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:15:46
+[09-04 10:15:48.83] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device1 at 1567584948
+[09-04 10:15:52.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:15:51
+[09-04 10:15:55.77] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:15:54
+[09-04 10:15:57.20] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:15:55
+[09-04 10:15:57.63] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 17}
+[09-04 10:15:59.01] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:15:57
+[09-04 10:16:07.76] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 5}
+[09-04 10:16:18.18] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:16:16
+[09-04 10:16:22.14] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:16:21
+[09-04 10:16:25.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:16:25
+[09-04 10:16:27.44] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:16:25
+[09-04 10:16:27.95] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 17}
+[09-04 10:16:29.19] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:16:27
+[09-04 10:16:38.08] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 5}
+[09-04 10:16:48.41] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:16:46
+[09-04 10:16:53.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:16:51
+[09-04 10:16:56.33] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:16:55
+[09-04 10:16:57.58] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:16:55
+[09-04 10:16:58.27] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 16}
+[09-04 10:16:59.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:16:58
+[09-04 10:17:08.38] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:17:18.63] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:17:16
+[09-04 10:17:23.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:17:21
+[09-04 10:17:26.37] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:17:25
+[09-04 10:17:27.63] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:17:26
+[09-04 10:17:28.56] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 15}
+[09-04 10:17:29.36] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:17:28
+[09-04 10:17:38.69] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:17:48.64] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:17:47
+[09-04 10:17:48.79] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"weather": 1}
+[09-04 10:17:53.45] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:17:51
+[09-04 10:17:56.66] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:17:55
+[09-04 10:17:59.00] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 14}
+[09-04 10:18:00.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:17:59
+[09-04 10:18:01.50] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:18:00
+[09-04 10:18:09.12] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 5}
+[09-04 10:18:17.47] [MainProcess|Thread-4527] [      dbWrapperBase:141 ] [   ERROR] Failed executing query: SELECT gym.gym_id, gym.latitude, gym.longitude, gymdetails.name, gymdetails.url, gym.team_id, gym.last_modified, raid.level, raid.spawn, raid.start, raid.end, raid.pokemon_id, raid.form, gym.last_scanned FROM gym INNER JOIN gymdetails ON gym.gym_id = gymdetails.gym_id LEFT JOIN raid ON raid.gym_id = gym.gym_id  WHERE (latitude >= None AND longitude >= None  AND latitude <= None AND longitude <= None) , error: 1054 (42S22): Unknown column 'None' in 'where clause'
+[09-04 10:18:18.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:18:17
+[09-04 10:18:19.18] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:18:22.61] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:18:21
+[09-04 10:18:26.87] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:18:26
+[09-04 10:18:27.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:18:26
+[09-04 10:18:29.27] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 44 entries
+[09-04 10:18:29.36] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 28 entries
+[09-04 10:18:29.42] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 13}
+[09-04 10:18:29.57] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:18:28
+[09-04 10:18:29.69] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 55 entries
+[09-04 10:18:29.79] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 30 entries
+[09-04 10:18:33.88] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 54 entries
+[09-04 10:18:33.95] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 33 entries
+[09-04 10:18:39.19] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 68 entries
+[09-04 10:18:39.30] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 46 entries
+[09-04 10:18:39.48] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:18:48.90] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:18:47
+[09-04 10:18:49.56] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:18:52.68] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:18:51
+[09-04 10:18:57.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:18:56
+[09-04 10:18:58.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:18:56
+[09-04 10:18:59.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:18:58
+[09-04 10:18:59.81] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 17}
+[09-04 10:19:09.92] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:19:19.00] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:19:17
+[09-04 10:19:20.05] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:19:23.79] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:19:22
+[09-04 10:19:27.30] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:19:26
+[09-04 10:19:28.21] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:19:26
+[09-04 10:19:29.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:19:28
+[09-04 10:19:30.19] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 17}
+[09-04 10:19:40.30] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "pokemon": 3}
+[09-04 10:19:49.15] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:19:47
+[09-04 10:19:50.43] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:19:53.89] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:19:52
+[09-04 10:19:57.52] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:19:56
+[09-04 10:19:58.31] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:19:56
+[09-04 10:19:59.96] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:19:59
+[09-04 10:20:00.55] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 16}
+[09-04 10:20:10.67] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "pokemon": 3}
+[09-04 10:20:19.33] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:20:17
+[09-04 10:20:20.79] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:20:24.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:20:22
+[09-04 10:20:27.56] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:20:26
+[09-04 10:20:28.48] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:20:26
+[09-04 10:20:30.95] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 13}
+[09-04 10:20:31.04] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:20:29
+[09-04 10:20:41.07] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:20:49.43] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:20:48
+[09-04 10:20:51.20] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:20:54.09] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:20:52
+[09-04 10:20:57.91] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:20:56
+[09-04 10:20:58.54] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:20:56
+[09-04 10:21:01.17] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:20:59
+[09-04 10:21:01.41] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 13}
+[09-04 10:21:11.53] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 3}
+[09-04 10:21:19.57] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:21:18
+[09-04 10:21:21.67] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:21:24.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:21:22
+[09-04 10:21:28.13] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:21:26
+[09-04 10:21:28.65] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:21:27
+[09-04 10:21:29.49] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 2 entries
+[09-04 10:21:29.50] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 2 entries
+[09-04 10:21:29.90] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 2 entries
+[09-04 10:21:29.90] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 2 entries
+[09-04 10:21:30.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:21:29
+[09-04 10:21:31.85] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 16}
+[09-04 10:21:34.04] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 1 entries
+[09-04 10:21:34.05] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 1 entries
+[09-04 10:21:39.45] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:21:39.46] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:21:49.64] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:21:48
+[09-04 10:21:52.02] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:21:54.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:21:52
+[09-04 10:21:58.41] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:21:57
+[09-04 10:21:58.81] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:21:57
+[09-04 10:22:01.30] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:21:59
+[09-04 10:22:02.20] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 15}
+[09-04 10:22:19.82] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:22:18
+[09-04 10:22:22.33] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 4}
+[09-04 10:22:24.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:22:22
+[09-04 10:22:28.60] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:22:27
+[09-04 10:22:28.93] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:22:27
+[09-04 10:22:31.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:22:29
+[09-04 10:22:32.45] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 13}
+[09-04 10:22:39.94] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 10:22:39.94] [          scanner] [    WebsocketServer:421 ] [ WARNING] Connection to Device4 was closed, stopping worker
+[09-04 10:22:39.95] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device4 stop called
+[09-04 10:22:39.95] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device4 stopped, cancelling pending tasks
+[09-04 10:22:39.95] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device4
+[09-04 10:22:39.96] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device4 stop called
+[09-04 10:22:39.96] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device4 unregistered
+[09-04 10:22:39.97] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device4
+[09-04 10:22:39.98] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:22:39.98] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device4 registering
+[09-04 10:22:39.99] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device4
+[09-04 10:22:39.99] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device4
+[09-04 10:22:40.00] [          scanner] [    WebsocketServer:259 ] [    INFO] Device4 not using area Device4Area - Walkervalue out of range
+[09-04 10:22:40.00] [          scanner] [    WebsocketServer:259 ] [    INFO] Device4 not using area stopsarea - Walkervalue out of range
+[09-04 10:22:40.02] [          scanner] [    WebsocketServer:290 ] [    INFO] Device4 using walker area Device4Area [3/3]
+[09-04 10:22:40.05] [          scanner] [         WorkerBase:79  ] [    INFO] Device4: last Mode not pokestop - reset saved location
+[09-04 10:22:40.06] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:22:40.06] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:22:40.07] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:22:40.18] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device4 starting
+[09-04 10:22:40.38] [          Device4] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 10:22:40.41] [worker_join_thread] [    WebsocketServer:92  ] [    INFO] Trying to join worker thread
+[09-04 10:22:40.61] [          Device4] [         WorkerBase:262 ] [    INFO] Try to register Device4 in Routemanager Device4Area
+[09-04 10:22:40.61] [MainProcess|Device4] [   RouteManagerBase:149 ] [    INFO] Worker Device4 already registered to routemanager Device4Area
+[09-04 10:22:40.61] [Device4_asyncio_Device4] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:22:40.86] [   worker_Device4] [         WorkerBase:229 ] [    INFO] Worker Device4 stopped gracefully
+[09-04 10:22:40.86] [worker_join_thread] [    WebsocketServer:95  ] [    INFO] Done joining worker thread
+[09-04 10:22:42.52] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x5199dc30>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:22:49.86] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:22:48
+[09-04 10:22:52.61] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x5199eb90>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:22:54.53] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:22:52
+[09-04 10:22:58.72] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:22:57
+[09-04 10:22:59.03] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:22:57
+[09-04 10:23:02.25] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:23:00
+[09-04 10:23:02.76] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 13}
+[09-04 10:23:12.93] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 2, "weather": 2, "pokemon": 3}
+[09-04 10:23:19.92] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:23:18
+[09-04 10:23:21.78] [       MainThread] [  MITMDataProcessor:91  ] [    INFO] Processing Encounter received from Device1 at 1567585400
+[09-04 10:23:23.06] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 5}
+[09-04 10:23:24.54] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:23:23
+[09-04 10:23:28.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:23:27
+[09-04 10:23:29.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:23:27
+[09-04 10:23:31.68] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:23:30
+[09-04 10:23:33.21] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 15}
+[09-04 10:23:50.17] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:23:49
+[09-04 10:23:53.33] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 5}
+[09-04 10:23:54.72] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:23:53
+[09-04 10:23:59.42] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:23:57
+[09-04 10:24:01.76] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:24:00
+[09-04 10:24:03.50] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 9}
+[09-04 10:24:13.17] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:24:12
+[09-04 10:24:13.59] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 2, "weather": 2, "pokemon": 6}
+[09-04 10:24:20.37] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:24:19
+[09-04 10:24:23.77] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 3, "weather": 2, "pokemon": 11}
+[09-04 10:24:24.77] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:24:23
+[09-04 10:24:29.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:24:28
+[09-04 10:24:29.44] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:24:28
+[09-04 10:24:29.71] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 1 entries
+[09-04 10:24:29.72] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 1 entries
+[09-04 10:24:30.03] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:24:30.03] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:24:31.90] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:24:30
+[09-04 10:24:33.97] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 16}
+[09-04 10:24:34.10] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:24:34.10] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:24:39.62] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:24:39.63] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:24:50.41] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:24:49
+[09-04 10:24:54.10] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 5}
+[09-04 10:24:54.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:24:53
+[09-04 10:24:59.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:24:58
+[09-04 10:24:59.53] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:24:58
+[09-04 10:25:01.95] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:25:01
+[09-04 10:25:04.27] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 17}
+[09-04 10:25:20.57] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:25:19
+[09-04 10:25:24.47] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 5}
+[09-04 10:25:25.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:25:23
+[09-04 10:25:29.67] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:25:28
+[09-04 10:25:29.82] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:25:28
+[09-04 10:25:32.10] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:25:31
+[09-04 10:25:34.66] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 17}
+[09-04 10:25:50.73] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:25:49
+[09-04 10:25:55.21] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:25:53
+[09-04 10:26:02.76] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"weather": 2}
+[09-04 10:26:03.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:25:58
+[09-04 10:26:03.23] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:25:58
+[09-04 10:26:03.94] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:26:01
+[09-04 10:26:13.27] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 21}
+[09-04 10:26:20.84] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:26:19
+[09-04 10:26:23.49] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 6}
+[09-04 10:26:25.11] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:26:24
+[09-04 10:26:30.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:26:28
+[09-04 10:26:30.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:26:29
+[09-04 10:26:35.23] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"weather": 2}
+[09-04 10:26:37.22] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:26:31
+[09-04 10:26:53.60] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:26:49
+[09-04 10:26:56.94] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:26:53
+[09-04 10:27:30.35] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x51b3bb50>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:27:33.87] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 10:27:34.49] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 10:27:34.64] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 10:27:39.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:26:58
+[09-04 10:27:36.31] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 2 entries
+[09-04 10:27:36.34] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:27:36.54] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:27:41.42] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:27:41.46] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 2 entries
+[09-04 10:27:41.51] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:26:59
+[09-04 10:27:41.40] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:27:41.47] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 3 entries
+[09-04 10:27:41.54] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 3 entries
+[09-04 10:27:51.09] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Read timed out. (read timeout=5)
+[09-04 10:27:51.46] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:27:01
+[09-04 10:27:53.19] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:27:20
+[09-04 10:27:53.51] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:27:24
+[09-04 10:27:54.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:27:28
+[09-04 10:27:54.98] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:27:29
+[09-04 10:28:02.76] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:27:31
+[09-04 10:28:04.65] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 22}
+[09-04 10:28:04.85] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:27:50
+[09-04 10:28:06.50] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:27:54
+[09-04 10:28:06.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:27:58
+[09-04 10:28:07.48] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:27:59
+[09-04 10:28:08.00] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:28:02
+[09-04 10:28:20.82] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 6, "weather": 2, "pokemon": 22}
+[09-04 10:28:21.27] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device1 stopped, cancelling pending tasks
+[09-04 10:28:21.28] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device1
+[09-04 10:28:21.29] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device1 stop called
+[09-04 10:28:21.29] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:28:20
+[09-04 10:28:21.29] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device1 unregistered
+[09-04 10:28:21.30] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device1
+[09-04 10:28:21.30] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device3 stopped, cancelling pending tasks
+[09-04 10:28:21.31] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device3
+[09-04 10:28:21.31] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device3 stop called
+[09-04 10:28:21.31] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device3 unregistered
+[09-04 10:28:21.32] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device3
+[09-04 10:28:23.48] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device6 stopped, cancelling pending tasks
+[09-04 10:28:23.48] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device6
+[09-04 10:28:23.39] [   worker_Device3] [         WorkerBase:229 ] [    INFO] Worker Device3 stopped gracefully
+[09-04 10:28:21.43] [worker_join_thread] [    WebsocketServer:92  ] [    INFO] Trying to join worker thread
+[09-04 10:28:23.48] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device6 stop called
+[09-04 10:28:21.42] [   worker_Device1] [         WorkerBase:229 ] [    INFO] Worker Device1 stopped gracefully
+[09-04 10:28:23.70] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device6 unregistered
+[09-04 10:28:23.74] [worker_join_thread] [    WebsocketServer:95  ] [    INFO] Done joining worker thread
+[09-04 10:28:23.75] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device6
+[09-04 10:28:23.84] [worker_join_thread] [    WebsocketServer:92  ] [    INFO] Trying to join worker thread
+[09-04 10:28:23.86] [worker_join_thread] [    WebsocketServer:95  ] [    INFO] Done joining worker thread
+[09-04 10:28:23.87] [worker_join_thread] [    WebsocketServer:92  ] [    INFO] Trying to join worker thread
+[09-04 10:28:24.03] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:28:24.04] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device1 registering
+[09-04 10:28:24.07] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device1
+[09-04 10:28:24.08] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device1
+[09-04 10:28:24.09] [          scanner] [    WebsocketServer:259 ] [    INFO] Device1 not using area Device1Area - Walkervalue out of range
+[09-04 10:28:24.15] [          scanner] [    WebsocketServer:259 ] [    INFO] Device1 not using area stopsarea - Walkervalue out of range
+[09-04 10:28:24.20] [          scanner] [    WebsocketServer:290 ] [    INFO] Device1 using walker area Device1Area [3/3]
+[09-04 10:28:24.29] [          scanner] [         WorkerBase:79  ] [    INFO] Device1: last Mode not pokestop - reset saved location
+[09-04 10:28:24.31] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:28:24.33] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:28:24.38] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:28:24.40] [   worker_Device6] [         WorkerBase:229 ] [    INFO] Worker Device6 stopped gracefully
+[09-04 10:28:24.42] [worker_join_thread] [    WebsocketServer:95  ] [    INFO] Done joining worker thread
+[09-04 10:28:25.71] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:28:24
+[09-04 10:28:28.23] [   dynamic_rarity] [             rarity:47  ] [    INFO] Updating dynamic rarity...
+[09-04 10:28:28.95] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:28:28.95] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device6 registering
+[09-04 10:28:28.96] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device6
+[09-04 10:28:29.02] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device6
+[09-04 10:28:29.03] [          scanner] [    WebsocketServer:259 ] [    INFO] Device6 not using area Device6Area - Walkervalue out of range
+[09-04 10:28:29.04] [          scanner] [    WebsocketServer:290 ] [    INFO] Device6 using walker area Device6Area [2/2]
+[09-04 10:28:29.10] [          scanner] [         WorkerBase:79  ] [    INFO] Device6: last Mode not pokestop - reset saved location
+[09-04 10:28:29.13] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:28:29.19] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:28:29.22] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:28:29.29] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:28:29.29] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device3 registering
+[09-04 10:28:29.42] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device3
+[09-04 10:28:29.53] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device3
+[09-04 10:28:29.53] [          scanner] [    WebsocketServer:259 ] [    INFO] Device3 not using area Device3Area - Walkervalue out of range
+[09-04 10:28:29.64] [          scanner] [    WebsocketServer:259 ] [    INFO] Device3 not using area stopsarea - Walkervalue out of range
+[09-04 10:28:29.80] [          scanner] [    WebsocketServer:290 ] [    INFO] Device3 using walker area Device3Area [3/3]
+[09-04 10:28:30.11] [   dynamic_rarity] [             rarity:63  ] [    INFO] Updated dynamic rarity. It took 1.43s for 62529 entries.
+[09-04 10:28:30.12] [          scanner] [         WorkerBase:79  ] [    INFO] Device3: last Mode not pokestop - reset saved location
+[09-04 10:28:30.14] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:28:30.14] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:28:30.14] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:28:30.29] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device1 starting
+[09-04 10:28:30.30] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device6 starting
+[09-04 10:28:30.30] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device3 starting
+[09-04 10:28:30.43] [          Device1] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 10:28:30.45] [          Device6] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 10:28:30.50] [          Device3] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 10:28:30.54] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:28:28
+[09-04 10:28:30.61] [          Device1] [         WorkerBase:262 ] [    INFO] Try to register Device1 in Routemanager Device1Area
+[09-04 10:28:30.61] [MainProcess|Device1] [   RouteManagerBase:149 ] [    INFO] Worker Device1 already registered to routemanager Device1Area
+[09-04 10:28:30.67] [Device1_asyncio_Device1] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:28:30.78] [          Device3] [         WorkerBase:262 ] [    INFO] Try to register Device3 in Routemanager Device3Area
+[09-04 10:28:30.80] [MainProcess|Device3] [   RouteManagerBase:149 ] [    INFO] Worker Device3 already registered to routemanager Device3Area
+[09-04 10:28:30.79] [          Device6] [         WorkerBase:262 ] [    INFO] Try to register Device6 in Routemanager Device6Area
+[09-04 10:28:30.81] [MainProcess|Device6] [   RouteManagerBase:149 ] [    INFO] Worker Device6 already registered to routemanager Device6Area
+[09-04 10:28:30.84] [Device6_asyncio_Device6] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:28:30.83] [Device3_asyncio_Device3] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:28:31.01] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x519995f0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:28:31.18] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:28:30
+[09-04 10:28:33.74] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:28:32
+[09-04 10:28:42.69] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:28:51.44] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:28:50
+[09-04 10:28:52.83] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 7}
+[09-04 10:28:55.83] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:28:54
+[09-04 10:29:00.62] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:28:59
+[09-04 10:29:01.34] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:29:00
+[09-04 10:29:03.69] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 4, "weather": 2, "pokemon": 21}
+[09-04 10:29:03.91] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:29:02
+[09-04 10:29:13.81] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 2, "weather": 2, "pokemon": 8}
+[09-04 10:29:22.58] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:29:20
+[09-04 10:29:23.92] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 1, "pokemon": 7}
+[09-04 10:29:24.05] [          scanner] [    WebsocketServer:421 ] [ WARNING] Connection to Device1 was closed, stopping worker
+[09-04 10:29:24.05] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device1 stop called
+[09-04 10:29:24.06] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 10:29:24.06] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device1 stopped, cancelling pending tasks
+[09-04 10:29:24.07] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device1
+[09-04 10:29:24.07] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device1 stop called
+[09-04 10:29:24.07] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device1 unregistered
+[09-04 10:29:24.08] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device1
+[09-04 10:29:24.09] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:29:24.09] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device1 registering
+[09-04 10:29:24.12] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device1
+[09-04 10:29:24.13] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device1
+[09-04 10:29:24.14] [          scanner] [    WebsocketServer:259 ] [    INFO] Device1 not using area Device1Area - Walkervalue out of range
+[09-04 10:29:24.16] [          scanner] [    WebsocketServer:259 ] [    INFO] Device1 not using area stopsarea - Walkervalue out of range
+[09-04 10:29:24.17] [          scanner] [    WebsocketServer:290 ] [    INFO] Device1 using walker area Device1Area [3/3]
+[09-04 10:29:24.22] [          scanner] [         WorkerBase:79  ] [    INFO] Device1: last Mode not pokestop - reset saved location
+[09-04 10:29:24.23] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:29:24.23] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:29:24.24] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:29:24.32] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device1 starting
+[09-04 10:29:24.47] [          Device1] [         WorkerBase:551 ] [    INFO] turnScreenOnAndStartPogo: (Re-)Starting Pogo
+[09-04 10:29:24.65] [          Device1] [         WorkerBase:262 ] [    INFO] Try to register Device1 in Routemanager Device1Area
+[09-04 10:29:24.65] [MainProcess|Device1] [   RouteManagerBase:149 ] [    INFO] Worker Device1 already registered to routemanager Device1Area
+[09-04 10:29:24.66] [Device1_asyncio_Device1] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:29:24.77] [worker_join_thread] [    WebsocketServer:92  ] [    INFO] Trying to join worker thread
+[09-04 10:29:25.98] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:29:25
+[09-04 10:29:28.97] [          scanner] [    WebsocketServer:421 ] [ WARNING] Connection to Device6 was closed, stopping worker
+[09-04 10:29:28.97] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device6 stop called
+[09-04 10:29:28.98] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device6 stopped, cancelling pending tasks
+[09-04 10:29:28.98] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device6
+[09-04 10:29:28.99] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device6 stop called
+[09-04 10:29:29.00] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device6 unregistered
+[09-04 10:29:29.01] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device6
+[09-04 10:29:29.16] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:29:29.16] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device6 registering
+[09-04 10:29:29.18] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device6
+[09-04 10:29:29.20] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device6
+[09-04 10:29:29.20] [          scanner] [    WebsocketServer:259 ] [    INFO] Device6 not using area Device6Area - Walkervalue out of range
+[09-04 10:29:29.22] [          scanner] [    WebsocketServer:290 ] [    INFO] Device6 using walker area Device6Area [2/2]
+[09-04 10:29:29.29] [          scanner] [         WorkerBase:79  ] [    INFO] Device6: last Mode not pokestop - reset saved location
+[09-04 10:29:29.31] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:29:29.32] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:29:29.33] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:29:29.38] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device6 starting
+[09-04 10:29:29.40] [          scanner] [    WebsocketServer:404 ] [ WARNING] retrieve_next_send: connection closed, returning None
+[09-04 10:29:29.41] [          scanner] [    WebsocketServer:153 ] [    INFO] consumer or producer of Device3 stopped, cancelling pending tasks
+[09-04 10:29:29.42] [          scanner] [    WebsocketServer:157 ] [    INFO] Awaiting unregister of Device3
+[09-04 10:29:29.42] [          scanner] [         WorkerBase:238 ] [ WARNING] Worker Device3 stop called
+[09-04 10:29:29.43] [          scanner] [    WebsocketServer:365 ] [    INFO] Worker Device3 unregistered
+[09-04 10:29:29.43] [          scanner] [    WebsocketServer:160 ] [    INFO] All done with Device3
+[09-04 10:29:30.74] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:29:29
+[09-04 10:29:29.39] [          Device6] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:29:56.33] [          scanner] [    WebsocketServer:136 ] [    INFO] Waiting for connection...
+[09-04 10:29:56.33] [          scanner] [    WebsocketServer:165 ] [    INFO] Client Device3 registering
+[09-04 10:29:56.34] [          scanner] [    WebsocketServer:215 ] [    INFO] Starting worker Device3
+[09-04 10:29:56.34] [          scanner] [    WebsocketServer:231 ] [    INFO] Setting up routemanagers for Device3
+[09-04 10:29:56.35] [          scanner] [    WebsocketServer:259 ] [    INFO] Device3 not using area Device3Area - Walkervalue out of range
+[09-04 10:29:56.35] [          scanner] [    WebsocketServer:259 ] [    INFO] Device3 not using area stopsarea - Walkervalue out of range
+[09-04 10:29:56.36] [          scanner] [    WebsocketServer:290 ] [    INFO] Device3 using walker area Device3Area [3/3]
+[09-04 10:29:56.37] [          scanner] [         WorkerBase:79  ] [    INFO] Device3: last Mode not pokestop - reset saved location
+[09-04 10:29:56.37] [          scanner] [         screenPath:92  ] [    INFO] Starting Screendetector
+[09-04 10:29:56.38] [          scanner] [         screenPath:99  ] [    INFO] Set logintype: LoginType.ptc
+[09-04 10:29:56.39] [          scanner] [         screenPath:126 ] [    INFO] Added 1 account(s) to memory
+[09-04 10:29:57.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:29:30
+[09-04 10:29:57.21] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x5c495350>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:29:57.29] [          scanner] [    WebsocketServer:412 ] [    INFO] Consumer handler of Device3 starting
+[09-04 10:29:57.31] [          Device3] [              start:66  ] [CRITICAL] Unhandled patched exception (<class 'OSError'>): "[Errno 24] Too many open files".
+[09-04 10:29:57.94] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:29:32
+[09-04 10:29:58.06] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:29:50
+[09-04 10:30:00.76] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:29:55
+[09-04 10:30:00.98] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:29:59
+[09-04 10:30:04.17] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:30:02
+[09-04 10:30:07.60] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x53255810>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:30:11.35] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:30:00
+[09-04 10:30:17.72] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x52df5df0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:30:22.88] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:30:21
+[09-04 10:30:27.14] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:30:25
+[09-04 10:30:27.85] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x52d94070>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:30:31.00] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:30:29
+[09-04 10:30:32.07] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:30:30
+[09-04 10:30:34.28] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:30:32
+[09-04 10:30:38.01] [   webhook_worker] [      webhookworker:139 ] [ WARNING] Exception occured while sending webhook: HTTPConnectionPool(host='127.0.0.1', port=4000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x532910f0>: Failed to establish a new connection: [Errno 24] Too many open files'))
+[09-04 10:30:43.39] [prio_queue_update_Device1Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 51 entries
+[09-04 10:30:43.40] [prio_queue_update_Device3Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 62 entries
+[09-04 10:30:43.40] [prio_queue_update_Device5Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 82 entries
+[09-04 10:30:43.48] [prio_queue_update_Device4Area] [   RouteManagerBase:279 ] [    INFO] New raw priority queue with 44 entries
+[09-04 10:30:43.89] [prio_queue_update_Device4Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 33 entries
+[09-04 10:30:43.91] [prio_queue_update_Device1Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 37 entries
+[09-04 10:30:44.03] [prio_queue_update_Device3Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 38 entries
+[09-04 10:30:44.16] [prio_queue_update_Device5Area] [   RouteManagerBase:283 ] [    INFO] New clustered priority queue with 57 entries
+[09-04 10:30:51.97] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:30:51
+[09-04 10:30:57.25] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:30:55
+[09-04 10:30:59.33] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 7}
+[09-04 10:31:01.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:30:59
+[09-04 10:31:02.12] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:31:00
+[09-04 10:31:04.38] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:31:03
+[09-04 10:31:10.04] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 16}
+[09-04 10:31:23.03] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:31:21
+[09-04 10:31:27.34] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:31:25
+[09-04 10:31:30.28] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 13}
+[09-04 10:31:31.32] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:31:29
+[09-04 10:31:32.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:31:31
+[09-04 10:31:34.54] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:31:33
+[09-04 10:31:40.86] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:31:53.24] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:31:51
+[09-04 10:31:57.49] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:31:56
+[09-04 10:32:01.09] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 1, "weather": 2, "pokemon": 13}
+[09-04 10:32:01.46] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device4. Received at 2019-09-04 10:31:59
+[09-04 10:32:02.61] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device6. Received at 2019-09-04 10:32:01
+[09-04 10:32:04.60] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device5. Received at 2019-09-04 10:32:03
+[09-04 10:32:11.23] [   webhook_worker] [      webhookworker:135 ] [ SUCCESS] Successfully sent payload to webhook. Stats: {"raid": 5, "weather": 2, "pokemon": 10}
+[09-04 10:32:23.47] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device1. Received at 2019-09-04 10:32:21
+[09-04 10:32:27.58] [       MainThread] [  MITMDataProcessor:68  ] [ SUCCESS] Processing GMO received from Device3. Received at 2019-09-04 10:32:26
